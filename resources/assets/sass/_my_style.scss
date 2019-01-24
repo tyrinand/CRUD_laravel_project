@@ -1,0 +1,20 @@
+.mydel{
+  width:20px;
+  height: 20px;
+  background-image:url(del.svg);
+}
+.mycreate{
+  display: inline-block;
+  width:20px;
+  height: 20px;
+  background-image:url(create.svg);
+}
+.print{
+  display: inline-block;
+  width:20px;
+  height: 20px;
+  background-image:url(doc.svg);
+}
+.table-hover > tbody > tr:hover {
+    background-color: #e0c809b0;
+}
